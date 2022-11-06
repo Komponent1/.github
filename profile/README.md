@@ -19,7 +19,7 @@ Komponent1는 seolim의 개발 레포지토리입니다. 주로 웹 어플리케
 
 **모두의 개발** 은 블로그 작성을 위한 웹 어플리케이션입니다. 
 
-<a href="https://https://blog-seolim.vercel.app">
+<a href="https://blog-sage-pi.vercel.app/">
   <img src="https://blog-seolim.vercel.app/logo.png" width="36px" height="36px" />
   모두의 개발 웹 사이트
 </a>
