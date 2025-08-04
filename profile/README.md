@@ -8,11 +8,12 @@ Komponent1는 seolim의 개발 레포지토리입니다. 주로 웹 어플리케
 <h2>Hobby</h2>
 
 개인 취미 저장소
-
-<a href="https://blog-sage-pi.vercel.app/">
-  <img src="https://blog-seolim.vercel.app/logo.png" width="36px" height="36px" />
-  
-</a>
+<div>
+  <a href="https://blog-sage-pi.vercel.app/">
+    <img src="https://blog-seolim.vercel.app/logo.png" width="36px" height="36px" />
+    웹 사이트
+  </a>
+</div>
 
 <a href="https://github.com/Komponent1/blog">
   <img src="https://blog-seolim.vercel.app/github.png" width="36px" height="36px" />
